@@ -127,4 +127,4 @@ const c = new Foo()
 
 > this图解
 
-<img src="F:\教程\fe-learning\images\this指向.webp" />
+<img src="F:\教程\fe-learning\images\this指向.jpg" />
