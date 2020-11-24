@@ -151,7 +151,7 @@ console.log(b) // {name: "yck"} 该方法会忽略掉函数和 undefined 。
 > 实现简易版深拷贝
 
 ```
-function deepClone(obj) {
+ function deepClone(obj) {
   function isObject(o) {
     return (typeof o === 'object' || typeof o === 'function') && o !== null
   }
